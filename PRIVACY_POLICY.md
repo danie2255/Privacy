@@ -2,7 +2,7 @@
 
 **Last Updated:** August 1, 2024
 
-Thank you for using Gemini AI Text Summarizer ("the extension"). This privacy policy explains what information the extension handles and why.
+Thank you for using Gemini AI Text Summarizer ("https://chromewebstore.google.com/detail/jgojogmglmmghbjpnniohkjmmkelmdjl/preview?hl=en&authuser=3&pli=1")
 
 ## Information We Handle
 
@@ -31,4 +31,4 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please open an issue on our official GitHub repository.
+If you have any questions about this Privacy Policy, please email me at thedpchthedpch@gmail.com
