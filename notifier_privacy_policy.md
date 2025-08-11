@@ -1,5 +1,7 @@
 Privacy Policy for Roblox Status Notifier
-Last updated: [Current Date]
+
+Last updated: [8/9/2025]
+
 This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the Roblox Status Notifier extension.
 Data Collection and Use
 The Roblox Status Notifier extension does not collect, store, share, or transmit any personal or user-identifiable data.
